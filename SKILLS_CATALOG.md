@@ -38,18 +38,27 @@
 * **`16-session-compaction-handoff.md`** — *Передача контекста.* Генерация чекпоинта завершения и промпта для старта в новом чистом окне чата.
 * **`20-pr-changelog-diff-summarizer.md`** — *Генератор PR.* Автоматическая сборка структурированного описания изменений по `git diff`.
 
+---
 
-- **Interactive UI / Forms / Telemetry:**
-    * `.skills/21-analytics-telemetry-guard.md`
-    * `.skills/23-a11y-accessibility-guard.md`
-- **Network / Offline / Sync:**
-    * `.skills/22-offline-network-resilience.md`
-- **Environment / Infrastructure / CI:**
-    * `.skills/24-env-bootstrap-dryrun.md`
+### 5. Interactive UI / Forms / Telemetry:
+* **`.skills/21-analytics-telemetry-guard.md`** 
+* **`.skills/23-a11y-accessibility-guard.md`**
 
-- **Security / Auth / Data Access / Uploads:**
-     * `.skills/09-security-injection-sanitization.md`
-     * `.skills/25-auth-authorization-rbac-guard.md`
-     * `.skills/26-secrets-anti-leak-entropy-guard.md`
-     * `.skills/27-ssrf-path-traversal-defense.md`
-     * `.skills/28-rate-limiting-dos-guard.md`
+---
+
+### 6. Network / Offline / Sync:
+* **`.skills/22-offline-network-resilience.md`**
+
+---
+
+### 7. Environment / Infrastructure / CI:
+* **`.skills/24-env-bootstrap-dryrun.md`**
+
+---
+
+### 8. Security / Auth / Data Access / Uploads:
+* **`.skills/09-security-injection-sanitization.md`**
+* **`.skills/25-auth-authorization-rbac-guard.md`**
+* **`.skills/26-secrets-anti-leak-entropy-guard.md`**
+* **`.skills/27-ssrf-path-traversal-defense.md`**
+* **`.skills/28-rate-limiting-dos-guard.md`**
